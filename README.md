@@ -4,7 +4,7 @@ concat array and merge object
 
 ## Usage
 
-```
+```js
 var merge = require('@ersinfotech/merge');
 var result = merge({
   a: [1],
